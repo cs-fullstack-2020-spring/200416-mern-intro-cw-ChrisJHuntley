@@ -1,5 +1,9 @@
 # 20-04-16 MERN Intro CW - Create and Read All
 
+### Case matters with your variable names, that's why you couldn't access the array in state. You were rendering your parent container app at all. Looks like your read all works bur your create one does not. Both are function in the backend tho. Spending 30 minutes to make a file is beyond explanation.
+
+### Score : 3/5
+
 ### File Structure + Set Up
 - Create a directory called `server` - this is where our server will be 
 - Create a react app called `client` - this is where our react app will be
